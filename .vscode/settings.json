@@ -2,5 +2,6 @@
   "eslint.validate": [
     "json"
   ],
-  "cSpell.language": "en,es-ES"
+  "cSpell.language": "en,es-ES",
+  "nxConsole.generateAiAgentRules": true
 }
